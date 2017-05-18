@@ -1,2 +1,15 @@
 # blog-codeings
-Es un proyecto que se dedica al crecimiento de eventos
+[Descripcion del proyecto]
+
+[Instalación]
+- Requisitos
+- Version
+- Encargados del proyecto
+
+[Uso]
+
+[Documentacion]
+
+[Roadmap]
+
+[Licencia]
